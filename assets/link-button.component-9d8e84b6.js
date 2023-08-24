@@ -1,1 +1,0 @@
-import{j as i}from"./react-bd395152.js";import{a as e}from"./react-router-53cec659.js";function u(n){const{label:o,path:s,color:t}=n,a=e();function l(){a(s)}return i.jsx("button",{className:"link-button",style:t!=null?{background:t}:{},onClick:l,children:o})}export{u as L};
