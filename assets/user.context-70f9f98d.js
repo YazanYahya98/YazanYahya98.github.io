@@ -1,0 +1,1 @@
+import{r,j as o}from"./index-d99f785d.js";const u=r.createContext({currentUser:null,setCurrentUser:()=>null}),c=({children:e})=>{const[t,s]=r.useState(null),n={currentUser:t,setCurrentUser:s};return o.jsx(u.Provider,{value:n,children:e})};export{u as U,c as a};
