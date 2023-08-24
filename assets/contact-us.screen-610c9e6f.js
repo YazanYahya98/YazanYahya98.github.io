@@ -1,1 +1,0 @@
-import{j as t}from"./index-cdb7ec64.js";import{C as s}from"./contact-us-form.component-2cd22cb1.js";import{b as o}from"./about_us_1-357c9690.js";import"./done-818f9234.js";function n(r){return t.jsxs("div",{className:"contact-us-page",children:[t.jsx("div",{className:"background",style:{backgroundImage:`url(${o})`}}),t.jsx(s,{titleColor:"white"})]})}export{n as default};
