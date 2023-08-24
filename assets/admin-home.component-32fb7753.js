@@ -1,1 +1,0 @@
-import{j as s,O as e}from"./index-9afa44a7.js";import{a as r}from"./user.context-3a30b2b0.js";function i(o){return s.jsx(r,{children:s.jsx("div",{className:"admin-home",children:s.jsx(e,{})})})}export{i as default};

@@ -1,0 +1,1 @@
+import{a as e,j as i}from"./index-4d1a4acb.js";function u(n){const{label:o,path:s,color:t}=n,a=e();function l(){a(s)}return i.jsx("button",{className:"link-button",style:t!=null?{background:t}:{},onClick:l,children:o})}export{u as L};
